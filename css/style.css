@@ -8,6 +8,10 @@ header {
   display: flex;
 }
 
+strong {
+  font-weight: bold;
+}
+
 section {
   padding: 20px;
   width: 60%;
